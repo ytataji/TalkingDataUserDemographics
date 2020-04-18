@@ -25,3 +25,5 @@ M32-38
 M39+
 Performance Metric:
 Multi-Class Log-loss
+Log-Loss Achieved : 2.2344
+Rank in Leaderoboard : 150th in public leader board
